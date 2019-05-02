@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a29da0d-caf1-4cd6-8ce3-92131cbcb2e3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/practice_python_li$myemail.coverage" NAME="myemail Coverage Results" MODIFIED="1554568622798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lemon_mahua0328" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_in_test_bidLoan_py.coverage" NAME="Unittests in test_bidLoan.py Coverage Results" MODIFIED="1555784169658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_3/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_lemon_mahua0321_TestSub.coverage" NAME="Unittests for lemon_mahua0321.TestSub Coverage Results" MODIFIED="1553431501764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class0321" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_http_unittest_TestHttpRequest_test_http_failed01.coverage" NAME="Unittests for http_unittest.TestHttpRequest.test_http_failed01 Coverage Results" MODIFIED="1553438825542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class0321/lemon0321" />
+    <SUITE FILE_PATH="coverage/practice_python_li$test_usr_pwd.coverage" NAME="test_usr_pwd Coverage Results" MODIFIED="1547913207575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_mahua$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1556820347423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_in_test_suite_new_py.coverage" NAME="Unittests in test_suite_new.py Coverage Results" MODIFIED="1553448481627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class0321" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_lemon_mahua0321_TestMathMethod_test_add_two_zero.coverage" NAME="Unittests for lemon_mahua0321.TestMathMethod.test_add_two_zero Coverage Results" MODIFIED="1553431283490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class0321" />
+    <SUITE FILE_PATH="coverage/practice_python_li$http_testSuite__1_.coverage" NAME="http_testSuite (1) Coverage Results" MODIFIED="1553450993633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class_0323" />
+    <SUITE FILE_PATH="coverage/practice_python_li$lemon_mahua_practice03.coverage" NAME="lemon_mahua_practice03 Coverage Results" MODIFIED="1551199575378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_test_bidLoan_BidLoanTest.coverage" NAME="Unittests for test_bidLoan.BidLoanTest Coverage Results" MODIFIED="1555865526976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_http_unittest_TestHttpRequest_test_http.coverage" NAME="Unittests for http_unittest.TestHttpRequest.test_http Coverage Results" MODIFIED="1554047770808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class_0323" />
+    <SUITE FILE_PATH="coverage/practice_python_li$copydeepcopy.coverage" NAME="copy和deepcopy Coverage Results" MODIFIED="1552836969818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_in_test_recharge_py.coverage" NAME="Unittests in test_recharge.py Coverage Results" MODIFIED="1555827472617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_mahua$run.coverage" NAME="run Coverage Results" MODIFIED="1556821974613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$importVehicle.coverage" NAME="importVehicle Coverage Results" MODIFIED="1553700398965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/createVehicle" />
+    <SUITE FILE_PATH="coverage/practice_python_li$http_testSuite.coverage" NAME="http_testSuite Coverage Results" MODIFIED="1554049875743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class_0323" />
+    <SUITE FILE_PATH="coverage/practice_python_li$lemon_mahua_practice0307.coverage" NAME="lemon_mahua_practice0307 Coverage Results" MODIFIED="1552070604336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$pc05.coverage" NAME="pc05 Coverage Results" MODIFIED="1551804788143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_in_test_addProject_py.coverage" NAME="Unittests in test_addProject.py Coverage Results" MODIFIED="1555863910350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$pc0319_log.coverage" NAME="pc0319_log Coverage Results" MODIFIED="1553185086824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_mahua$Unittests_for_test_login_LoginTest.coverage" NAME="Unittests for test_login.LoginTest Coverage Results" MODIFIED="1556819645580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_test_login_LoginTest_test_login.coverage" NAME="Unittests for test_login.LoginTest.test_login Coverage Results" MODIFIED="1555699192623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_3/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$lemon_mahua_practice0302.coverage" NAME="lemon_mahua_practice0302 Coverage Results" MODIFIED="1552321150699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$pc02.coverage" NAME="pc02 Coverage Results" MODIFIED="1551624733215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_test_suite_new_TestAdd.coverage" NAME="Unittests for test_suite_new.TestAdd Coverage Results" MODIFIED="1553450073342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class0321" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_test_suite_new_TestAdd_test_002.coverage" NAME="Unittests for test_suite_new.TestAdd.test_002 Coverage Results" MODIFIED="1553445477306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class0321" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_test_addProject_AddProjectTest.coverage" NAME="Unittests for test_addProject.AddProjectTest Coverage Results" MODIFIED="1555865499919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_in_test_audit_py.coverage" NAME="Unittests in test_audit.py Coverage Results" MODIFIED="1555784016772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_3/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_test_register_RegisterTest.coverage" NAME="Unittests for test_register.RegisterTest Coverage Results" MODIFIED="1555864256409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_mahua$logger.coverage" NAME="logger Coverage Results" MODIFIED="1556818493752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/common" />
+    <SUITE FILE_PATH="coverage/practice_python_li$http_request.coverage" NAME="http_request Coverage Results" MODIFIED="1555252272505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_2" />
+    <SUITE FILE_PATH="coverage/practice_python_li$pc03.coverage" NAME="pc03 Coverage Results" MODIFIED="1553433925729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_mahua$Unittests_for_test_register_RegisterTest.coverage" NAME="Unittests for test_register.RegisterTest Coverage Results" MODIFIED="1556819396328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_http_unittest_TestHttpRequest_test_http_success02.coverage" NAME="Unittests for http_unittest.TestHttpRequest.test_http_success02 Coverage Results" MODIFIED="1553438672277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class0321/lemon0321" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_http_unittest_TestHttpRequest_test_http_failed02.coverage" NAME="Unittests for http_unittest.TestHttpRequest.test_http_failed02 Coverage Results" MODIFIED="1553439027023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class0321/lemon0321" />
+    <SUITE FILE_PATH="coverage/practice_python_li$lemon_mahua0314.coverage" NAME="lemon_mahua0314 Coverage Results" MODIFIED="1552833522707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$testNone.coverage" NAME="testNone Coverage Results" MODIFIED="1555698520253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_2" />
+    <SUITE FILE_PATH="coverage/practice_python_li$lemon_mahua_practice04.coverage" NAME="lemon_mahua_practice04 Coverage Results" MODIFIED="1551290004561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$study_pymysql.coverage" NAME="study_pymysql Coverage Results" MODIFIED="1556035422521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_in_http_unittest_py.coverage" NAME="Unittests in http_unittest.py Coverage Results" MODIFIED="1553450417075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class_0323/lemon_mahua0323/lemon0321" />
+    <SUITE FILE_PATH="coverage/practice_python_li$data.coverage" NAME="data Coverage Results" MODIFIED="1554046611783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class_0323" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_in_test_login_py__1_.coverage" NAME="Unittests in test_login.py (1) Coverage Results" MODIFIED="1555827463099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$lemon_mahua_practice0309.coverage" NAME="lemon_mahua_practice0309 Coverage Results" MODIFIED="1552205275498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1553187408107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_mahua0319" />
+    <SUITE FILE_PATH="coverage/practice_python_li$do_mysql.coverage" NAME="do_mysql Coverage Results" MODIFIED="1555865477113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/common" />
+    <SUITE FILE_PATH="coverage/practice_python_li$http_request__1_.coverage" NAME="http_request (1) Coverage Results" MODIFIED="1555235651324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口实战/API_2" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_http_unittest_TestHttpRequest_test_http_wrongUser.coverage" NAME="Unittests for http_unittest.TestHttpRequest.test_http_wrongUser Coverage Results" MODIFIED="1553437117992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class0321/lemon0321" />
+    <SUITE FILE_PATH="coverage/practice_python_mahua$test_report.coverage" NAME="test_report Coverage Results" MODIFIED="1556347989020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/reports" />
+    <SUITE FILE_PATH="coverage/practice_python_li$lemon_mahua_practice0312.coverage" NAME="lemon_mahua_practice0312 Coverage Results" MODIFIED="1552406342946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$lemon_mahua0319.coverage" NAME="lemon_mahua0319 Coverage Results" MODIFIED="1553269199694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_mahua0319" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_lemon_mahua0321_TestMathMethod_test_add_positive_negative.coverage" NAME="Unittests for lemon_mahua0321.TestMathMethod.test_add_positive_negative Coverage Results" MODIFIED="1553431296354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class0321" />
+    <SUITE FILE_PATH="coverage/practice_python_li$pc01.coverage" NAME="pc01 Coverage Results" MODIFIED="1551546656339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_test_audit_LoginTest.coverage" NAME="Unittests for test_audit.LoginTest Coverage Results" MODIFIED="1555783885107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_3/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$study_re.coverage" NAME="study_re Coverage Results" MODIFIED="1555857525311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_test_login_LoginTest.coverage" NAME="Unittests for test_login.LoginTest Coverage Results" MODIFIED="1555864238752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$email.coverage" NAME="email Coverage Results" MODIFIED="1554138054706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lemon_mahua0328" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_test_recharge_RechargeTest.coverage" NAME="Unittests for test_recharge.RechargeTest Coverage Results" MODIFIED="1555864245568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_test_suite_new_TestAdd_test_001.coverage" NAME="Unittests for test_suite_new.TestAdd.test_001 Coverage Results" MODIFIED="1553449029521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class0321" />
+    <SUITE FILE_PATH="coverage/practice_python_li$d8.coverage" NAME="d8 Coverage Results" MODIFIED="1554625409815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sendEmail" />
+    <SUITE FILE_PATH="coverage/practice_python_li$lemon_class01.coverage" NAME="lemon_class01 Coverage Results" MODIFIED="1550502074471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_http_unittest_TestHttpRequest.coverage" NAME="Unittests for http_unittest.TestHttpRequest Coverage Results" MODIFIED="1554048831924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class_0323" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_lemon_mahua0321_TestMathMethod.coverage" NAME="Unittests for lemon_mahua0321.TestMathMethod Coverage Results" MODIFIED="1553431301473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class0321" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1555784200462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_3/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$class_02_01.coverage" NAME="class_02_01 Coverage Results" MODIFIED="1547481590380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$lemon_mahua_practice02.coverage" NAME="lemon_mahua_practice02 Coverage Results" MODIFIED="1550761249501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$voiceOpenBrowser.coverage" NAME="voiceOpenBrowser Coverage Results" MODIFIED="1552489970878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/littlePrac" />
+    <SUITE FILE_PATH="coverage/practice_python_li$chengfabiao.coverage" NAME="chengfabiao Coverage Results" MODIFIED="1547654921256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_test_bidLoan_LoginTest.coverage" NAME="Unittests for test_bidLoan.LoginTest Coverage Results" MODIFIED="1555783538921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_3/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$contants.coverage" NAME="contants Coverage Results" MODIFIED="1555695805686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_3/common" />
+    <SUITE FILE_PATH="coverage/practice_python_li$rwExcel.coverage" NAME="rwExcel Coverage Results" MODIFIED="1555726300212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_3/common" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_test_audit_AuditTest.coverage" NAME="Unittests for test_audit.AuditTest Coverage Results" MODIFIED="1555865512412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_mahua$Unittests_in_test_register_py.coverage" NAME="Unittests in test_register.py Coverage Results" MODIFIED="1556819531734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_mahua$Unittests_in_test_invest_py.coverage" NAME="Unittests in test_invest.py Coverage Results" MODIFIED="1556821956267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$practice.coverage" NAME="practice Coverage Results" MODIFIED="1554626061102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试题" />
+    <SUITE FILE_PATH="coverage/practice_python_li$study_reflect.coverage" NAME="study_reflect Coverage Results" MODIFIED="1556234977730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac" />
+    <SUITE FILE_PATH="coverage/practice_python_li$lemon_mahua_practice01.coverage" NAME="lemon_mahua_practice01 Coverage Results" MODIFIED="1550502349259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$Unittests_for_test_addProject_LoginTest.coverage" NAME="Unittests for test_addProject.LoginTest Coverage Results" MODIFIED="1555781015266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_3/testcases" />
+    <SUITE FILE_PATH="coverage/practice_python_li$test_suite.coverage" NAME="test_suite Coverage Results" MODIFIED="1553433175654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/class0321" />
+    <SUITE FILE_PATH="coverage/practice_python_li$http_request__2_.coverage" NAME="http_request (2) Coverage Results" MODIFIED="1555256674291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APItest_0409" />
+    <SUITE FILE_PATH="coverage/practice_python_li$test_report.coverage" NAME="test_report Coverage Results" MODIFIED="1556347608904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_prac/reports" />
+    <SUITE FILE_PATH="coverage/practice_python_li$pc06.coverage" NAME="pc06 Coverage Results" MODIFIED="1552320772831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/practice_python_li$lemon_mahua0316.coverage" NAME="lemon_mahua0316 Coverage Results" MODIFIED="1552754915995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/lemon_mahua0316" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="http_request.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API_prac/common/http_request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="70" column="13" lean-forward="true" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+              <folding>
+                <element signature="e#139#154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="case.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API_prac/log/case.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state relative-caret-position="324">
+              <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logger.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API_prac/common/logger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+              <folding>
+                <element signature="e#133#147#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API_prac/testcases/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+              <folding>
+                <element signature="e#129#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.conf" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/API_prac/config/test.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TestRunner</find>
+      <find>dict</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/practice/class_0323/data.py" />
+        <option value="$PROJECT_DIR$/lemon_mahua0328/email.py" />
+        <option value="$PROJECT_DIR$/lemon_mahua0328/conf/__init__.py" />
+        <option value="$PROJECT_DIR$/lemon_mahua0328/myemail.py" />
+        <option value="$PROJECT_DIR$/lemon_mahua0328/conf/demo.txt" />
+        <option value="$PROJECT_DIR$/sendEmail/demo.txt" />
+        <option value="$PROJECT_DIR$/sendEmail/d8.py" />
+        <option value="$PROJECT_DIR$/面试题/practice.py" />
+        <option value="$PROJECT_DIR$/API_2/study_session.py" />
+        <option value="$PROJECT_DIR$/API_2/http_request.py" />
+        <option value="$PROJECT_DIR$/APItest_0409/http_request.py" />
+        <option value="$PROJECT_DIR$/API_3/data.py" />
+        <option value="$PROJECT_DIR$/API_3/env.conf" />
+        <option value="$PROJECT_DIR$/API_3/rwExcel.py" />
+        <option value="$PROJECT_DIR$/API_3/http_request.py" />
+        <option value="$PROJECT_DIR$/API_2/testNone.py" />
+        <option value="$PROJECT_DIR$/API_3/config/env.conf" />
+        <option value="$PROJECT_DIR$/API_3/config/pre.conf" />
+        <option value="$PROJECT_DIR$/API_3/config/global.conf" />
+        <option value="$PROJECT_DIR$/API_3/common/contants.py" />
+        <option value="$PROJECT_DIR$/API_3/common/config.py" />
+        <option value="$PROJECT_DIR$/API_3/testcases/test_login.py" />
+        <option value="$PROJECT_DIR$/API_3/testcases/test_recharge.py" />
+        <option value="$PROJECT_DIR$/API_3/common/rwExcel.py" />
+        <option value="$PROJECT_DIR$/API_3/common/http_request.py" />
+        <option value="$PROJECT_DIR$/API_3/testcases/test_addProject.py" />
+        <option value="$PROJECT_DIR$/API_3/testcases/test_audit.py" />
+        <option value="$PROJECT_DIR$/API_3/testcases/test_bidLoan.py" />
+        <option value="$PROJECT_DIR$/API_prac/testcases/test_audit.py" />
+        <option value="$PROJECT_DIR$/API_prac/testcases/test_bidLoan.py" />
+        <option value="$PROJECT_DIR$/API_prac/study_pymysql.py" />
+        <option value="$PROJECT_DIR$/API_prac/study_reflect.py" />
+        <option value="$PROJECT_DIR$/API_prac02/reports/test_report.py" />
+        <option value="$PROJECT_DIR$/API_prac_before/common/rwExcel.py" />
+        <option value="$PROJECT_DIR$/API_prac/common/config.py" />
+        <option value="$PROJECT_DIR$/API_prac/common/context.py" />
+        <option value="$PROJECT_DIR$/API_prac/common/do_mysql.py" />
+        <option value="$PROJECT_DIR$/API_prac/common/rwExcel.py" />
+        <option value="$PROJECT_DIR$/API_prac/study_re.py" />
+        <option value="$PROJECT_DIR$/API_prac/testcases/test_addProject.py" />
+        <option value="$PROJECT_DIR$/API_prac/reports/test_report.py" />
+        <option value="$PROJECT_DIR$/API_prac/testcases/test_recharge.py" />
+        <option value="$PROJECT_DIR$/API_prac/testcases/test_invest.py" />
+        <option value="$PROJECT_DIR$/API_prac/log/log_output.py" />
+        <option value="$PROJECT_DIR$/API_prac/common/logger.py" />
+        <option value="$PROJECT_DIR$/API_prac/testcases/test_login.py" />
+        <option value="$PROJECT_DIR$/API_prac/testcases/test_register.py" />
+        <option value="$PROJECT_DIR$/API_prac/config/test.conf" />
+        <option value="$PROJECT_DIR$/API_prac/common/http_request.py" />
+        <option value="$PROJECT_DIR$/API_prac/common/contants.py" />
+        <option value="$PROJECT_DIR$/API_prac/testcases/run.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1440" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="practice_python_mahua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_python_mahua" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_python_mahua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_python_mahua" type="462c0819:PsiDirectoryNode" />
+              <item name="API_prac" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_python_mahua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_python_mahua" type="462c0819:PsiDirectoryNode" />
+              <item name="API_prac" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_python_mahua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_python_mahua" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_python_mahua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="practice_python_li" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="practice_python_li" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/API_3/config" />
+      <recent name="$PROJECT_DIR$/API_3/common" />
+      <recent name="$PROJECT_DIR$/API_3/data" />
+      <recent name="$PROJECT_DIR$/API_3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/API_3" />
+      <recent name="$PROJECT_DIR$/API_2" />
+      <recent name="$PROJECT_DIR$/practice/class_0323/lemon_mahua0323" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="lemon_mahua_practice0307" type="PythonConfigurationType" factoryName="Python">
+      <module name="practice_python_li" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/lemonClass/lemon_mahua_practice0307.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice_python_li" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API_prac/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API_prac/testcases/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests for test_login.LoginTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="practice_python_li" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API_prac/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.LoginTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_invest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="practice_python_li" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API_prac/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/API_prac/testcases/test_invest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="practice_python_li" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API_prac/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/API_prac/testcases/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_register.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="practice_python_li" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API_prac/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/API_prac/testcases/test_register.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.lemon_mahua_practice0307" />
+      <item itemvalue="Python tests.Unittests in test_login.py" />
+      <item itemvalue="Python tests.Unittests in test_register.py" />
+      <item itemvalue="Python tests.Unittests for test_login.LoginTest" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python tests.Unittests in test_invest.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python tests.Unittests in test_invest.py" />
+        <item itemvalue="Python tests.Unittests in test_login.py" />
+        <item itemvalue="Python tests.Unittests for test_login.LoginTest" />
+        <item itemvalue="Python tests.Unittests in test_register.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a29da0d-caf1-4cd6-8ce3-92131cbcb2e3" name="Default" comment="" />
+      <created>1547479584412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547479584412</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_audit_AuditTest - 2019.04.22 at 00h 51m 59s.xml">
+      <configuration name="Unittests for test_audit.AuditTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_bidLoan_BidLoanTest - 2019.04.22 at 00h 52m 15s.xml">
+      <configuration name="Unittests for test_bidLoan.BidLoanTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2019.05.03 at 01h 41m 35s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_register_RegisterTest - 2019.05.03 at 01h 50m 03s.xml">
+      <configuration name="Unittests for test_register.RegisterTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_register_py - 2019.05.03 at 01h 52m 19s.xml">
+      <configuration name="Unittests in test_register.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_LoginTest - 2019.05.03 at 01h 54m 08s.xml">
+      <configuration name="Unittests for test_login.LoginTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2019.05.03 at 01h 55m 10s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2019.05.03 at 02h 05m 49s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_invest_py - 2019.05.03 at 02h 29m 54s.xml">
+      <configuration name="Unittests in test_invest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_invest_py - 2019.05.03 at 02h 32m 45s.xml">
+      <configuration name="Unittests in test_invest.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32969698" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.2167382" side_tool="true" weight="0.3309091" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7832618" weight="0.25373134" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4985694" weight="0.32537314" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49361023" visible="true" weight="0.2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4963768" visible="true" weight="0.14217253" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32636815" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
+      <window_info id="Structure" order="1" sideWeight="0.5036232" side_tool="true" weight="0.19957082" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49284694" weight="0.3988764" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3297568" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.3286517" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4963768" visible="true" weight="0.14217253" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
+      <window_info id="Structure" order="1" sideWeight="0.5036232" side_tool="true" weight="0.19957082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32969698" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7832618" visible="true" weight="0.25373134" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3272727" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4985694" weight="0.3260606" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49284694" weight="0.3988764" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49361023" weight="0.2" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.2167382" side_tool="true" weight="0.3309091" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.3286517" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3297568" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/requests/__init__.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="59" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&lt;class 'list'&gt;: [3, 4]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/API_prac/reports/test_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#119#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/testcases/test_addProject.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/common/rwExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="462" column="8" selection-start-line="462" selection-start-column="8" selection-end-line="462" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/common/case.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="90">
+          <caret line="5" column="71" lean-forward="true" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/log/log_output.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding>
+            <element signature="e#118#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/common/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding>
+            <element signature="e#132#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/common/context.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/testcases/test_register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <element signature="e#140#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <folding>
+            <element signature="e#133#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/common/http_request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="70" column="13" lean-forward="true" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+          <folding>
+            <element signature="e#139#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/testcases/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="e#137#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/reports/test_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="33" selection-end-column="21" />
+          <folding>
+            <element signature="e#119#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/common/contants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="77" column="42" lean-forward="true" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/log/case.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="324">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/testcases/test_recharge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="46" lean-forward="true" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/testcases/test_invest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="29" column="53" lean-forward="true" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+          <folding>
+            <element signature="e#138#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/testcases/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <element signature="e#129#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/config/test.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
