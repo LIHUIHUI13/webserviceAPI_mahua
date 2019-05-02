@@ -35,5 +35,4 @@ with open(contants.report_dir + '/report.html','wb') as file:
         description='mahua',
         tester='mahua'
     )
-    # runner = unittest.TextTestRunner(stream=file,verbosity=2)
     runner.run(discover)
