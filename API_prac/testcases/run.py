@@ -5,8 +5,8 @@
 # Time : 2019/5/3 2:07 AM
 # FileName : run.py
 
-import sys
-sys.path.append('./') #project根目录地址
+# import sys
+# sys.path.append('./') #project根目录地址
 
 import unittest
 import HTMLTestRunnerNew
