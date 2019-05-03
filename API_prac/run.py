@@ -7,6 +7,7 @@
 
 import sys
 sys.path.append('./') #project根目录地址
+print(sys.path)
 
 import unittest
 import HTMLTestRunnerNew
